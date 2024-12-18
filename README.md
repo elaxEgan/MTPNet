@@ -24,3 +24,7 @@ Download the MTPNet model weights, create the necessary directories to store the
 python test.py
 
 ~~~
+
+### Saliency maps
+We provide saliency maps of our MTPNet on ORSSD，EORSSD and ORSI-4199 datasets.
+[Download](https://pan.baidu.com/s/1HmODLC5U-iUHu8LAz4Z1Mg&pwd=gfs9)
