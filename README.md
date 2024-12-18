@@ -6,7 +6,7 @@ Welcome to the official repository for the paper "Task Prompt Guided Network for
 Download pre-trained classification weights of the [Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth) , and place the ` .pth ` files in ` ./pretrained_model ` directory. These weights are essential for initializing the model during training.
 
 ### Trained Weights of MTPNet for Testing
-
+We provide Trained Weights of our MTPNet.
 [Download](https://pan.baidu.com/s/1It1POLIDvCxVIaY0i7aSuw&pwd=axtm)
 
 ### Train
