@@ -10,7 +10,7 @@ Download pre-trained classification weights of the [Swin Transformer](https://gi
 [Download]()
 
 ### Train
-Please download the pre-trained model weights and dataset first. Next, generate the path lists of the training set and the test set, and change the dataset path in the code to the path of the dataset listing file (.txt) you specified.
+Please download the pre-trained model weights and dataset first. Next, generate the path of the training set and the test set, and change the dataset path in the code to the path of the dataset you specified.
 
 ~~~python
 python train.py
