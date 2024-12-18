@@ -7,7 +7,7 @@ Download pre-trained classification weights of the [Swin Transformer](https://gi
 
 ### Trained Weights of MTPNet for Testing
 
-[Download]()
+[Download](https://pan.baidu.com/s/1It1POLIDvCxVIaY0i7aSuw&pwd=axtm)
 
 ### Train
 Please download the pre-trained model weights and dataset first. Next, generate the path of the training set and the test set, and change the dataset path in the code to the path of the dataset you specified.
