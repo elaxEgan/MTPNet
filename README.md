@@ -1,6 +1,9 @@
 # Task Prompt Guided Network for Remote Sensing Image Salient Object Detection: A Multi-task Learning Perspective
 
-Welcome to the official repository for the paper "Task Prompt Guided Network for Remote Sensing Image Salient Object Detection: A Multi-task Learning Perspective"
+Welcome to the official repository for the paper "Task Prompt Guided Network for Remote Sensing Image Salient Object Detection: A Multi-task Learning Perspective".
+
+### Network Architecture
+![image text](https://github.com/WangJianQin7/SAFINet/blob/main/model/SAFINet.png)
 
 ### The Initialization Weights for Training
 Download pre-trained classification weights of the [Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth) , and place the ` .pth ` files in ` ./pretrained_model ` directory. These weights are essential for initializing the model during training.
@@ -28,3 +31,6 @@ python test.py
 ### Saliency maps
 We provide saliency maps of our MTPNet on ORSSD，EORSSD and ORSI-4199 datasets.
 [Download](https://pan.baidu.com/s/1HmODLC5U-iUHu8LAz4Z1Mg&pwd=gfs9)
+
+### Evaluation Tool
+You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
