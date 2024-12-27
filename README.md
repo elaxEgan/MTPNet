@@ -1,6 +1,6 @@
-# Task Prompt Guided Network for Remote Sensing Image Salient Object Detection: A Multi-task Learning Perspective
+# Multi-task Prompt-Guided Network for Salient Object Detection in Optical Remote Sensing Images: A Multi-task Learning Perspective
 
-Welcome to the official repository for the paper "Task Prompt Guided Network for Remote Sensing Image Salient Object Detection: A Multi-task Learning Perspective".
+Welcome to the official repository for the paper "Multi-task Prompt-Guided Network for Salient Object Detection in Optical Remote Sensing Images: A Multi-task Learning Perspective".
 
 ### Network Architecture
 ![image text](https://github.com/elaxEgan/MTPNet/blob/main/MTPNet/model/MTPNet.jpg)
