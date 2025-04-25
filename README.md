@@ -1,6 +1,6 @@
-# Multi-task Prompt-Guided Network for Salient Object Detection in Optical Remote Sensing Images: A Multi-task Learning Perspective
+# Prompt-Driven Multi-Task Learning with Task Tokens for ORSI Salient Object Detection
 
-Welcome to the official repository for the paper "Multi-task Prompt-Guided Network for Salient Object Detection in Optical Remote Sensing Images: A Multi-task Learning Perspective".
+Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learning with Task Tokens for ORSI Salient Object Detection".
 
 ### Network Architecture
 ![image text](https://github.com/elaxEgan/MTPNet/blob/main/MTPNet/model/MTPNet.jpg)
