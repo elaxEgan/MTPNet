@@ -6,6 +6,10 @@ Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learn
 
 ![image](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png)
 
+### Motivate
+![image](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/g.png)
+Utilize task prompts to enforce orthogonality between the gradient directions of two tasks.
+
 ### The Initialization Weights for Training
 Download pre-trained classification weights of the [Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth) , and place the ` .pth ` files in ` ./pretrained_model ` directory. These weights are essential for initializing the model during training.
 
