@@ -7,6 +7,8 @@ Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learn
 <img src="https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png"  width="1200">
 </p>
 
+![image]([https://raw.githubusercontent.com/...](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png))
+
 ### The Initialization Weights for Training
 Download pre-trained classification weights of the [Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth) , and place the ` .pth ` files in ` ./pretrained_model ` directory. These weights are essential for initializing the model during training.
 
