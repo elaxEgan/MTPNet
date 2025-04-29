@@ -7,11 +7,13 @@ Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learn
 ![image](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png)
 
 ### Motivate
+
 ![image](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/g.png)
 
 Utilize task prompts to enforce orthogonality between the gradient directions of two tasks.
 
 ### Comparison with SOTA methods
+
 ![image](https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/tabel.png)
 
 ### The Initialization Weights for Training
