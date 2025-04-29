@@ -3,10 +3,14 @@
 Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learning with Task Tokens for ORSI Salient Object Detection".
 
 ### Network Architecture
+
 <p align="center">
 <img src="https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png"  width="1200">
 </p>
 
+<p align="center">
+<img src="https://huggingface.co/mit-han-lab/dc-ae-f64c128-in-1.0/resolve/main/assets/dc_ae_sana.jpg"  width="1200">
+</p>
 ### The Initialization Weights for Training
 Download pre-trained classification weights of the [Swin Transformer](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth) , and place the ` .pth ` files in ` ./pretrained_model ` directory. These weights are essential for initializing the model during training.
 
