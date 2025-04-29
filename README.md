@@ -4,7 +4,7 @@ Welcome to the official repository for the paper "Prompt-Driven Multi-Task Learn
 
 ### Network Architecture
 <p align="center">
-<img src="https://huggingface.co/JXUST317/MTPNet/blob/main/assets/MTPNet.png"  width="1200">
+<img src="https://huggingface.co/JXUST317/MTPNet/resolve/main/assets/MTPNet.png"  width="1200">
 </p>
 
 ### The Initialization Weights for Training
